@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="256" height="256" viewBox="0 0 256 256">
+  <!-- Beyaz arka plan (zorunlu) -->
+  <rect x="0" y="0" width="256" height="256" fill="#FFFFFF"/>
+
+  <!-- Mavi renk -->
+  <!-- F (yalnızca dikdörtgenler) -->
+  <rect x="40"  y="48"  width="20"  height="160" fill="#1E5FFF"/>
+  <rect x="40"  y="48"  width="84"  height="20"  fill="#1E5FFF"/>
+  <rect x="40"  y="116" width="64"  height="20"  fill="#1E5FFF"/>
+
+  <!-- O (dış kare + iç boşluk) -->
+  <rect x="140" y="48"  width="80" height="160" fill="#1E5FFF"/>
+  <rect x="156" y="68"  width="48" height="120" fill="#FFFFFF"/>
+</svg>
